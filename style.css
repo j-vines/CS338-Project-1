@@ -8,16 +8,31 @@ body {
     background-color:beige;
 }
 
+#images {
+    float: left;
+}
+
+#text {
+    float: right;
+}
+
 img {
     float: left;
     width: 20%;
 }
 
 p {
-    float: left;
     text-align: center
     
 }
 h1{
     text-align: center
+}
+
+main {
+    margin: 100px;
+}
+
+.heading {
+    font-size: 30px;
 }
